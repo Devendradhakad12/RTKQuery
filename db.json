@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title",
+      "views": 100
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "views": 200
+    },
+    {
+      "id": "1706695184736",
+      "title": "drr",
+      "views": 0
+    },
+    {
+      "id": "1706695188152",
+      "title": "ef",
+      "views": 0
+    },
+    {
+      "id": "1706695904090",
+      "title": "cd",
+      "views": 0
+    }
+  ]
+}
